@@ -1,0 +1,1 @@
+This package is to setup multi auth for your Laravel project.
